@@ -1,0 +1,43 @@
+#head{
+    text-align: center;
+}
+body{
+    background-color: aqua;
+}
+#second,#first,#third,#fourth{
+    text-align: center;
+    
+}
+
+h3,p#mid{
+    display: inline;
+    font-family: sans-serif;
+}
+
+li{
+    border-top:1px solid black;
+    border-bottom:1px solid black;
+}
+ul#players li:hover{
+    color: blue;
+}
+h3#starting{
+    background-color: green;
+}
+
+p#mid{
+    background-color: beige;
+}
+
+th#wins:hover{
+    color: chartreuse;
+}
+
+th#losses:hover{
+    color: red;
+}
+
+ol strong{
+    background-color:bisque;
+}
+
